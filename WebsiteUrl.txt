@@ -1,0 +1,6 @@
+Website Link
+https://ckfirstportfolio.netlify.app/
+
+Key Points 
+1) Flex works for first child and used to give sizing for content on page
+2) For get free hosting we can use Netlify.com 
